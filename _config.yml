@@ -3,12 +3,12 @@ title: Link Boat
 tagline: And Tagline
 email: 19940630@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designer and web developer. 
-  I love being minimal and creative.
+  Hi, I’m a professional Android designer. 
+  I like anime.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://linksy.wang" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
-author: "Tom Warlker"
+author: "Link Wang"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
