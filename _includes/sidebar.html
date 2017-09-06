@@ -26,7 +26,9 @@ styles and `#sidebar-toggle-checkbox` for behavior.
 
     <a class="sidebar-nav-item{% if page.url == '/index.html' %} active {% endif %}" 
       href="{{ '' | prepend: site.baseurl | prepend: site.url | append: '/' }}"> 
-        		 <span><img src="../assets/images/home.png"> Home</span>
+             <span>
+               <img src="../assets/images/home.png" style="width:10px;height:10px"> <span>Home</span>
+            </span>
 
     </a>
 
